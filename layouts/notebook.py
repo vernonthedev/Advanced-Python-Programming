@@ -36,8 +36,8 @@ databaseGroup = tb.LabelFrame(tab1, text="Manage Your Databases Here!", height=6
 databaseGroup.place(relx=0.05, rely=0.1)
 
 createDatabaseButton = tb.Button(databaseGroup, text="Create Database", bootstyle="INFO OUTLINE", style='info.Outline.TButton', command=logic.createDB)
-dropDatabaseButton = tb.Button(databaseGroup, text="Delete Database", bootstyle="DANGER OUTLINE", style='danger.Outline.TButton')
-showDatabaseButton = tb.Button(databaseGroup, text="Show Databases", bootstyle="SUCCESS OUTLINE", style='success.Outline.TButton')
+dropDatabaseButton = tb.Button(databaseGroup, text="Delete Database", bootstyle="DANGER OUTLINE", style='danger.Outline.TButton', command=logic.dropDB)
+showDatabaseButton = tb.Button(databaseGroup, text="Show Databases", bootstyle="SUCCESS OUTLINE", style='success.Outline.TButton', command=logic.showDBs)
 
 #widgets aligned in tab 1
 createDatabaseButton.pack(padx=10, side='left', expand='true', fill='x')
@@ -50,9 +50,12 @@ tableGroup.place(relx=0.05, rely=0.3)
 
 createTableButton = tb.Button(tableGroup, text="Create Table", bootstyle="INFO OUTLINE", style='info.Outline.TButton')
 dropTableButton = tb.Button(tableGroup, text="Delete Table", bootstyle="DANGER OUTLINE", style='danger.Outline.TButton')
+showTableButton = tb.Button(tableGroup, text="Show Tables", bootstyle="SUCCESS OUTLINE", style='success.Outline.TButton')
 
 createTableButton.pack(padx=10, side='left', expand='true', fill='x')
 dropTableButton.pack(padx=10, side='left', expand='true', fill='x')
+showTableButton.pack(padx=10, side='left', expand='true', fill='x')
+
 
 tableGroup = tb.LabelFrame(tab1, text="Available Table Operations", height=60)
 tableGroup.place(relx=0.05, rely=0.5)
