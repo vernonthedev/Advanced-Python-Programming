@@ -11,25 +11,33 @@ This management system allows a user to do the following operations;
 - Delete items inside the tables
 - Update inserted items inside the tables
 - And also show available table contents.
+- 
+<img width="632" alt="logo ternm" src="https://github.com/vernonthedev/Advanced-Python-Programming/assets/108737724/5d612a00-9f53-4944-a261-a223c817100b">
 
 
-<img width="309" alt="term ops" src="https://github.com/vernonthedev/Advanced-Python-Programming/assets/108737724/0272adab-c020-4f29-b29a-50673730c6f6">
+<img width="309" alt="term ops" src="https://github.com/vernonthedev/Advanced-Python-Programming/assets/108737724/c9922b4b-35c7-44e0-984b-ba814ca3c126">
 
 
-<img width="632" alt="logo ternm" src="https://github.com/vernonthedev/Advanced-Python-Programming/assets/108737724/facdade5-7fb7-4cb5-97d2-5c2425dcacc4">
+
 
 # Python Animated GUI Sidebar for a Desktop Application.
 
 Nice Animated Python Sidebar that is toggled on when the user presses the menu button on the interface.
 
-<img width="492" alt="animated sidebar" src="https://github.com/vernonthedev/Advanced-Python-Programming/assets/108737724/345b7015-dbf5-46a6-aa2d-577dcca57fbf">
+<img width="492" alt="animated sidebar" src="https://github.com/vernonthedev/Advanced-Python-Programming/assets/108737724/9be388ab-e17c-4f88-b06a-f34bafccb153">
+
+
+
 
 # Database Management System Graphical User Interface.
 The graphical user interface for the commandline version of the  first database management system designed in python and 
 tkinter library as well as customtkinter and ttkbootstrap.
-<img width="878" alt="notebook ops" src="https://github.com/vernonthedev/Advanced-Python-Programming/assets/108737724/92139152-8116-4dc0-88ea-882d1d52e941">
 
-<img width="484" alt="lofty home" src="https://github.com/vernonthedev/Advanced-Python-Programming/assets/108737724/fac3b8ef-8f15-46a4-82b1-7271239f130d">
+<img width="484" alt="lofty home" src="https://github.com/vernonthedev/Advanced-Python-Programming/assets/108737724/04a5cefb-6b3a-4e8b-a2f0-5eae38e14106">
+<img width="878" alt="notebook ops" src="https://github.com/vernonthedev/Advanced-Python-Programming/assets/108737724/c3326ee6-4198-4e9b-9e45-e5cd9fd06405">
+
+
+
 
 Leave me A Cookie and thumbs up for the project
 Thanks Alot.
